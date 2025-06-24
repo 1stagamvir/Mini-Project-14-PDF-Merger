@@ -1,4 +1,4 @@
-# Mini-Project-14-PDF-Merger
+# Mini Project-14 PDF Merger
 A simple yet powerful Python-based PDF merging utility that combines multiple PDF files into a single document using PyPDF2 library.
 
 ## Overview
